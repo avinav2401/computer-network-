@@ -1,0 +1,20 @@
+{
+  "name": "smart-shopping-mall-network",
+  "version": "1.0.0",
+  "description": "Project 7: Smart Shopping Mall Network - Interactive 10-Slide Deck & Simulation Lab",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "deploy": "npx vercel --prod"
+  },
+  "keywords": [
+    "cisco-packet-tracer",
+    "computer-networks",
+    "smart-mall-network",
+    "srm-ist",
+    "vlan-segmentation",
+    "pci-dss"
+  ],
+  "author": "Harpreet Singh, Avinav Priyadarshi, Harshit, Ankit",
+  "license": "MIT"
+}
